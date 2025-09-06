@@ -90,7 +90,7 @@
       </div>
 
     </div>
-    <div class="mt-auto">
+    <div class="mt-auto bg-[#fff]">
       <UserInfo v-if="isOpen" />
     </div>
 
