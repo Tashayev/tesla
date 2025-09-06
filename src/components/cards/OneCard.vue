@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white p-4 rounded-2xl shadow-md h-full space-y-5 min-h-[150.02px] min-w-42.5 max-w-46">
+  <div class="bg-white p-4 rounded-2xl shadow-md h-full space-y-5 min-h-[150.02px] min-w-40 max-w-46">
     <h3 class="text-sm text-gray-500">{{ title }}</h3>
     <p class="text-lg font-bold">{{ infoOne }}
       <span class=" text-base text-gray-500">{{ infoTwo }}</span>

@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-[322px] bg-white rounded-2xl shadow p-5">
+  <div class="w-full h-[314px] bg-white rounded-2xl shadow p-5 ">
     <div class="flex justify-between p-1">
       <p>Activity</p>
       <div class="relative">
